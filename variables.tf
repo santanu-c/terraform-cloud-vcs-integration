@@ -1,3 +1,7 @@
 variable "vpc_cidr" {
-    type = string 
+  type = string
+}
+
+variable "subet_cidr" {
+  type = string
 }
